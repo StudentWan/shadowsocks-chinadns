@@ -1,0 +1,8 @@
+{
+    "server": "hk-172.hxg.cc",
+    "server_port": 22610,
+    "local_port": 1080,
+    "password": "mP5X6l3d6u",
+    "timeout": 1500,
+    "method": "rc4-md5"
+}
