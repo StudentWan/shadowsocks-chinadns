@@ -14,7 +14,7 @@ Copy this project to openwrt/packages.
 Choose them when running: make menuconfig
 Then running: make V=s
 
-You havr to set your server first.
+You have to set up server first.
 ssh to your router and then type the following command:
 
 vi etc/shadowsocks.json
