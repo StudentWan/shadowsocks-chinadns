@@ -11,9 +11,12 @@ Enjoy it.
 ## Instruction
 
 Copy this project to openwrt/packages.
-Choose them when running: 
+Choose them when running:
+ 
 `make menuconfig`
+
 Then running: 
+
 `make V=s`
 
 You have to set up server first.
